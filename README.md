@@ -1,1 +1,1 @@
-# Method_Automatic_pose_recognition
+# Pose_recognition
